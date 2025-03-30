@@ -1,0 +1,44 @@
+{
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "",
+    "NEXT_PUBLIC_SHOP_URL": "",
+    "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "",
+    "NEXT_PUBLIC_AUTH_TOKEN_KEY": "AUTH_CRED",
+    "APPLICATION_MODE": "production",
+    "NEXT_PUBLIC_DEFAULT_LANGUAGE": "en",
+    "NEXT_PUBLIC_ENABLE_MULTI_LANG": "false",
+    "NEXT_PUBLIC_AVAILABLE_LANGUAGES": "en",
+    "NEXT_PUBLIC_PUSHER_DEV_MOOD": "false",
+    "NEXT_PUBLIC_PUSHER_APP_KEY": "",
+    "NEXT_PUBLIC_PUSHER_APP_CLUSTER": "",
+    "NEXT_PUBLIC_STORE_NOTICE_CREATED_CHANNEL_PRIVATE": "private-store_notice.created",
+    "NEXT_PUBLIC_ORDER_CREATED_CHANNEL_PRIVATE": "private-order.created",
+    "NEXT_PUBLIC_MESSAGE_CHANNEL_PRIVATE": "private-message.created",
+    "NEXT_PUBLIC_STORE_NOTICE_CREATED_EVENT": "store.notice.event",
+    "NEXT_PUBLIC_ORDER_CREATED_EVENT": "order.create.event",
+    "NEXT_PUBLIC_MESSAGE_EVENT": "message.event",
+    "NEXT_PUBLIC_VERSION": "11.8.0"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "",
+      "NEXT_PUBLIC_SHOP_URL": "",
+      "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "",
+      "NEXT_PUBLIC_AUTH_TOKEN_KEY": "AUTH_CRED",
+      "APPLICATION_MODE": "production",
+      "NEXT_PUBLIC_DEFAULT_LANGUAGE": "en",
+      "NEXT_PUBLIC_ENABLE_MULTI_LANG": "false",
+      "NEXT_PUBLIC_AVAILABLE_LANGUAGES": "en",
+      "NEXT_PUBLIC_PUSHER_DEV_MOOD": "false",
+      "NEXT_PUBLIC_PUSHER_APP_KEY": "",
+      "NEXT_PUBLIC_PUSHER_APP_CLUSTER": "",
+      "NEXT_PUBLIC_STORE_NOTICE_CREATED_CHANNEL_PRIVATE": "private-store_notice.created",
+      "NEXT_PUBLIC_ORDER_CREATED_CHANNEL_PRIVATE": "private-order.created",
+      "NEXT_PUBLIC_MESSAGE_CHANNEL_PRIVATE": "private-message.created",
+      "NEXT_PUBLIC_STORE_NOTICE_CREATED_EVENT": "store.notice.event",
+      "NEXT_PUBLIC_ORDER_CREATED_EVENT": "order.create.event",
+      "NEXT_PUBLIC_MESSAGE_EVENT": "message.event",
+      "NEXT_PUBLIC_VERSION": "11.8.0"
+    }
+  }
+}
