@@ -1,0 +1,16 @@
+{
+  "sticker-card-title-rev": "总收入",
+  "sticker-card-subtitle-rev": "（最近 30 天）",
+  "sticker-card-title-order": "总订单",
+  "sticker-card-title-vendor": "小贩",
+  "sticker-card-subtitle-order": "（最近 30 天）",
+  "sticker-card-title-customer": "新客户",
+  "sticker-card-subtitle-customer": "（最近 30 天）",
+  "sticker-card-title-today-rev": "今日收入",
+  "sticker-card-subtitle-last-1-days": "今天（过去 24 小时）",
+  "sticker-card-subtitle-last-7-days": "每周（过去 7 天）",
+  "sticker-card-subtitle-last-30-days": "每月（过去 30 天）",
+  "sticker-card-subtitle-last-365-days": "每年（过去 365 天）",
+  "sticker-card-title-total-shops": "店铺总数",
+  "sticker-card-title-today-refunds": "今日退款"
+}
