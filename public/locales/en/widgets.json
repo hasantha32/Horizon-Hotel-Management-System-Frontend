@@ -1,0 +1,16 @@
+{
+  "sticker-card-title-rev": "Total Revenue",
+  "sticker-card-subtitle-rev": "(Last 30 Days)",
+  "sticker-card-title-order": "Total Order",
+  "sticker-card-title-vendor": "Vendor",
+  "sticker-card-subtitle-order": "(Last 30 Days)",
+  "sticker-card-title-customer": "New Customer",
+  "sticker-card-subtitle-customer": "(Last 30 Days)",
+  "sticker-card-title-today-rev": "Todays Revenue",
+  "sticker-card-subtitle-last-1-days": "Today (Last 24 Hour)",
+  "sticker-card-subtitle-last-7-days": "Weekly (Last 7 Days)",
+  "sticker-card-subtitle-last-30-days": "Monthly (Last 30 Days)",
+  "sticker-card-subtitle-last-365-days": "Yearly (Last 365 Days)",
+  "sticker-card-title-total-shops": "Total Shops",
+  "sticker-card-title-today-refunds": "Todays Refunds"
+}
